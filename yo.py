@@ -1,0 +1,1 @@
+print("muskuratt pe mulaakat")
